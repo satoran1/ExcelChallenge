@@ -1,14 +1,16 @@
 KICKSTART MY CHART HOMEWORK #1
 
-THE PROJECT 
+THE PROJECT
+
 This project used crowfunding service, Kickstarter project data, to  organize and analyze the database of 4,000 past projects in order to uncover any hidden trends.
 
-THE CHALLENGE  
+THE CHALLENGE
+
 I was able to use Excel table (Starterbook) to modify and analyze the data for the following: 
-* Use conditional formatting in the `state` column with color diffentials depending on associated campaign was successful, failed, or canceled, or is currently live. 
+  * Use conditional formatting in the `state` column with color diffentials depending on associated campaign was successful, failed, or canceled, or is currently live. 
  * Created `Percent Funded` column using a formula to determine amount of money a campaign made to reach its initial goal using conditional formatting with three-color scale  0 (start-dark red) transitioning to  (green) at 100, and (blue) at 200. 
 
-   * Created `Average Donation` column that uses a formula to uncover how much each backer for the project paid on average.
+  * Created `Average Donation` column that uses a formula to uncover how much each backer for the project paid on average.
 
   * Created two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
@@ -29,7 +31,7 @@ I was able to use Excel table (Starterbook) to modify and analyze the data for t
   * Created a pivot chart line graph that visualizes the new table.
   
 CONCLUSIONS 
-* Created a report in Microsoft Word and answer the following questions:
+* Created a report in Microsoft Word to answer the following questions:
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
-3. What are some other possible tables and/or graphs that we could 
+3. What are some other possible tables and/or graphs that we could? 
